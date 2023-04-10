@@ -1,0 +1,58 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Toyota Camry",
+      "price": 24970,
+      "image": "https://cdn3.riastatic.com/photosnew/auto/photo/toyota_camry__487472726fx.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Honda Civic",
+      "price": 22545,
+      "image": "https://cdn3.riastatic.com/photosnew/auto/photo/honda_civic__490603161fx.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ford Mustang",
+      "price": 28840,
+      "image": "https://cdn3.riastatic.com/photosnew/auto/photo/ford_mustang__485289270fx.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Chevrolet Corvette",
+      "price": 62195,
+      "image": "https://www.fonstola.ru/pic/201201/800x600/fonstola.ru_70950.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tesla Model S",
+      "price": 79990,
+      "image": "https://cdn3.riastatic.com/photosnew/auto/photo/tesla_model-s__488128628fx.jpg"
+    },
+    {
+      "id": 6,
+      "name": "BMW 3 Series",
+      "price": 43700,
+      "image": "https://autofakty.com/wp-content/uploads/2015/05/BMW-3-Series-2015.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Audi A4",
+      "price": 40145,
+      "image": "https://cdn3.riastatic.com/photosnew/auto/photo/audi_a4__484458800fx.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Mercedes-Benz C-Class",
+      "price": 43600,
+      "image": "https://nextcar.ua/images/thumbnails/800/600/detailed/415/IMG_9021.JPG.jpg"
+    },
+    {
+      "id": 9,
+      "name": "McLaren 720S",
+      "price": 320000,
+      "image": "https://cdn3.riastatic.com/photosnew/auto/photo/mclaren_720s__460437631fx.jpg"
+    }
+  ]
+}
